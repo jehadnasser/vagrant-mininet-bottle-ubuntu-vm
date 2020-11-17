@@ -3,11 +3,11 @@ Vagrant machine in GUI mode(Xfce Desktop Environment) with Ubuntu/bionic64, Mini
 
 ## Prequesites
 
-1. VirtualBox
+1. **VirtualBox**
 
   * Install the latest [virtualbox](https://www.virtualbox.org/wiki/Downloads)
 
-2. Vagrant
+2. **Vagrant**
 
   * Install the latest [vagrant](https://www.vagrantup.com/downloads.html)
 
