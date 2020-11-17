@@ -20,7 +20,7 @@ vagrant up
 vagrant reload #reload the machine so you can see the GUI
 ```
 
-Login credentials:
+ * Login credentials:
 ```
 username: vagrant
 password: vagrant
