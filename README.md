@@ -15,7 +15,7 @@ Vagrant machine in GUI mode(Xfce Desktop Environment) with Ubuntu/bionic64, Mini
 
   * Clone this repository and in the root directory run these commands:
 
-```
+```bash
 vagrant up
 vagrant reload #reload the machine so you can see the GUI
 ```
